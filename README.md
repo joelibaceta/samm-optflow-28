@@ -1,5 +1,7 @@
-# SAMM-OptFlow-28×28: Scientific Pipeline Overview
+# SAMM-OptFlow-28×28
+A Reproducible Workflow for Micro-Expression Analysis from the SAMM Dataset
 
+<br/>
 This repository implements a streamlined, reproducible workflow to extract robust micro-expression features from the SAMM dataset. Rather than exposing every line of code, we present here the **key stages** and **results**, illustrated with representative figures.
 
 ---
