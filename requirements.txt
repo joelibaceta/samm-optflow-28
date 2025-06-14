@@ -1,0 +1,10 @@
+torch
+torchvision
+facenet-pytorch
+opencv-python
+numpy
+pillow
+tqdm
+pandas
+requests
+kaggle
