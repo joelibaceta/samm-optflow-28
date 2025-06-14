@@ -8,3 +8,6 @@ tqdm
 pandas
 requests
 kaggle
+matplotlib
+scikit-learn
+imageio
